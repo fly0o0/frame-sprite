@@ -18,23 +18,6 @@
 
 ## 范例
 
-模式3：
-
-![image.png](https://yun.dui88.com/tuia/cdn/readme/sprite2-3.png)
-
-
-模式2：
-
-![image.png](https://yun.dui88.com/tuia/cdn/readme/sprite3-2.png)
-
-
-模式1：
-
-![image.png](https://yun.dui88.com/tuia/cdn/readme/sprite1-6.png)
-
-
-模式0：
-
-![image.png](https://yun.dui88.com/tuia/cdn/readme/6_1-small.jpg)
+![image.png](https://yun.dui88.com/tuia/frame/20210822125413.jpg)
 
 
