@@ -11,11 +11,12 @@
     npm install frame-sprite -D
     npx frame-sprite -i test/imgs -o test/dist -m 0
 ```
-参数说明
--i 源文件输入目录（相对于命令执行的目录），默认值：img
--o 雪碧图输出目录（相对于命令执行的目录），默认值：和-i一致
--m 目前支持四种模式（0 1 2 3），对应生成的css文件，默认值：0
 
+**参数说明**
+
++ -i 源文件输入目录（相对于命令执行的目录），默认值：img
++ -o 雪碧图输出目录（相对于命令执行的目录），默认值：和-i一致
++ -m 目前支持四种模式（0 1 2 3），对应生成的css文件，默认值：0
 ## 范例
 
 ![image.png](https://yun.dui88.com/tuia/frame/20210822125413.jpg)
